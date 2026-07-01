@@ -51,4 +51,4 @@ Endpoints disponibles:
 
 ## Repositorio del Backend
 
-[Anti-Social Documental TP](https://github.com/tu-usuario/Fakebook-Back)
+[Anti-Social Documental TP](https://github.com/EnzoNahuel23/Fakebook-Back)
